@@ -1,0 +1,6 @@
+version: 1.0
+name: OGPearls
+website: github.com/KidOGzz
+main: zz.kidog.pearls.OGPearls
+commands:
+  pearl:
