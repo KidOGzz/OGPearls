@@ -64,6 +64,21 @@
             <scope>system</scope>
             <systemPath>${project.basedir}/lib/spigot-1.8.8.jar</systemPath>
         </dependency>
+        <dependency>
+            <groupId>net.frozenorb</groupId>
+            <artifactId>qLib</artifactId>
+            <version>1.0</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/qLib-1.0-SNAPSHOT.jar</systemPath>
+        </dependency>
+
+        <dependency>
+            <groupId>net.hylist</groupId>
+            <artifactId>spigot</artifactId>
+            <version>1.7.10-R0.1-SNAPSHOT</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/Spigot.jar</systemPath>
+        </dependency>
     </dependencies>
 
 </project>
